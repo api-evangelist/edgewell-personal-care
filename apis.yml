@@ -8,6 +8,8 @@ common:
     url: https://www.linkedin.com/company/edgewell-personal-care
   - type: Website
     url: https://www.edgewell-personal-care.com
+  - url: https://www.edgewell.com/blogs/news.atom
+    type: Blog
 description: >-
   Edgewell Personal Care is a global consumer products company offering a portfolio
   of personal care brands across wet shave, sun care, feminine care, and infant care
