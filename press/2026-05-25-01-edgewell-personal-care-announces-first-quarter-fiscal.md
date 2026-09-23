@@ -1,7 +1,9 @@
 ---
 title: Edgewell Personal Care Announces First Quarter Fiscal ...
 url: https://www.prnewswire.com/news-releases/edgewell-personal-care-announces-first-quarter-fiscal-2026-results-302681845.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Edgewell Personal Care" press release artificial intelligence'
 position: 1
 source: serpapi-google

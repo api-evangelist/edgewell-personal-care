@@ -1,7 +1,9 @@
 ---
 title: Quality Data Enables AI, People Analytics at Edgewell
 url: https://news.sap.com/2025/03/improved-data-quality-enables-ai-and-people-analytics-at-edgewell/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Edgewell Personal Care" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Edgewell Personal Care Announces Second Quarter ...
 url: https://www.prnewswire.com/news-releases/edgewell-personal-care-announces-second-quarter-fiscal-2026-results-302763411.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Edgewell Personal Care" press release artificial intelligence'
 position: 5
 source: serpapi-google
